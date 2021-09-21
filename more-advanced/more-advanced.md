@@ -16,4 +16,5 @@
 
 
 4.  What kinds of things can you do in interactive mode when rebasing?
+    
     **editing, deleting, and squashing**
